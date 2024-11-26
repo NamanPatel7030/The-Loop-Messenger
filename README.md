@@ -40,24 +40,24 @@ LOGIN PAGE:-
 
 <img width="494" alt="image" src="https://github.com/user-attachments/assets/99316e62-eaec-4cd6-a659-cd63e17449a2">
 
-------------------------------------------------------------------------------------
+--------------------------------------
 REGISTER PAGE:-
 
 <img width="487" alt="image" src="https://github.com/user-attachments/assets/e6feb385-ef2f-475e-bb20-7722cd694c09">
 
-------------------------------------------------------------------------------------
+--------------------------------------
 
 HOME PAGE:-
 
 <img width="492" alt="image" src="https://github.com/user-attachments/assets/dc4310ff-ea92-4ab8-bd06-ff8f654f24f9">
 
-------------------------------------------------------------------------------------
+--------------------------------------
 
 CHAT PAGE:-
 
 <img width="495" alt="image" src="https://github.com/user-attachments/assets/065582b9-6d94-4d74-aa9e-e7d0981942a0">
 
-------------------------------------------------------------------------------------
+--------------------------------------
 
 AI CHAT BOT PAGE:-
 
