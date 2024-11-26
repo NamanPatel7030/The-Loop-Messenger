@@ -65,3 +65,12 @@ AI CHAT BOT PAGE:-
 
 
 ------------------------------------------------------------------------------------
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Contact
+For any questions or feedback, feel free to reach out at:
+
+Email: namandeveloper7030@gmail.com
+LinkedIn: https://www.linkedin.com/in/naman-gundaniya-087621209/
